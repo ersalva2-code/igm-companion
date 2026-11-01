@@ -1,0 +1,730 @@
+{
+  "load_save": [
+    "Cargar partida",
+    "Load save",
+    "Charger une sauvegarde",
+    "Spielstand laden",
+    "Carica salvataggio",
+    "Carregar partida"
+  ],
+  "mod_folder": [
+    "Carpeta del mod",
+    "Mod folder",
+    "Dossier du mod",
+    "Mod-Ordner",
+    "Cartella del mod",
+    "Pasta do mod"
+  ],
+  "open_project": [
+    "Abrir proyecto",
+    "Open project",
+    "Ouvrir le projet",
+    "Projekt öffnen",
+    "Apri progetto",
+    "Abrir projeto"
+  ],
+  "save_project": [
+    "Guardar proyecto",
+    "Save project",
+    "Enregistrer le projet",
+    "Projekt speichern",
+    "Salva progetto",
+    "Guardar projeto"
+  ],
+  "export": [
+    "Exportar al mod",
+    "Export to mod",
+    "Exporter vers le mod",
+    "In Mod exportieren",
+    "Esporta nel mod",
+    "Exportar para o mod"
+  ],
+  "owner": [
+    "UID del propietario:",
+    "Owner UID:",
+    "UID du propriétaire :",
+    "Besitzer-UID:",
+    "UID proprietario:",
+    "UID do proprietário:"
+  ],
+  "owner_help": [
+    "Vacío: propone el único propietario de estaciones del save.",
+    "Empty: proposes the sole station owner in the save.",
+    "Vide : propose le seul propriétaire des stations.",
+    "Leer: einzigen Stationsbesitzer vorschlagen.",
+    "Vuoto: propone il solo proprietario delle stazioni.",
+    "Vazio: propõe o único proprietário das estações."
+  ],
+  "catalogue": [
+    "CATÁLOGO",
+    "CATALOGUE",
+    "CATALOGUE",
+    "KATALOG",
+    "CATALOGO",
+    "CATÁLOGO"
+  ],
+  "icon_designer": [
+    "DISEÑADOR DE ICONOS",
+    "ICON DESIGNER",
+    "CRÉATEUR D’ICÔNES",
+    "SYMBOL-DESIGNER",
+    "CREATORE ICONE",
+    "CRIADOR DE ÍCONES"
+  ],
+  "edit_selected": [
+    "Edita la alianza seleccionada en el catálogo.",
+    "Edit the alliance selected in the catalogue.",
+    "Modifiez l’alliance sélectionnée dans le catalogue.",
+    "Im Katalog ausgewählte Allianz bearbeiten.",
+    "Modifica l’alleanza selezionata nel catalogo.",
+    "Edite a aliança selecionada no catálogo."
+  ],
+  "alliance_name": [
+    "Nombre de la alianza",
+    "Alliance name",
+    "Nom de l’alliance",
+    "Allianzname",
+    "Nome alleanza",
+    "Nome da aliança"
+  ],
+  "initials": [
+    "Siglas (máximo 6)",
+    "Initials (up to 6)",
+    "Sigle (6 maximum)",
+    "Kürzel (bis zu 6)",
+    "Sigla (massimo 6)",
+    "Sigla (máximo 6)"
+  ],
+  "symbol": [
+    "Símbolo",
+    "Symbol",
+    "Symbole",
+    "Symbol",
+    "Simbolo",
+    "Símbolo"
+  ],
+  "background": [
+    "Fondo",
+    "Background",
+    "Fond",
+    "Hintergrund",
+    "Sfondo",
+    "Fundo"
+  ],
+  "border": [
+    "Borde",
+    "Border",
+    "Bordure",
+    "Rand",
+    "Bordo",
+    "Contorno"
+  ],
+  "foreground": [
+    "Símbolo y letras",
+    "Symbol and letters",
+    "Symbole et lettres",
+    "Symbol und Text",
+    "Simbolo e lettere",
+    "Símbolo e letras"
+  ],
+  "diamond": [
+    "Recortar como rombo",
+    "Clip to diamond",
+    "Découper en losange",
+    "Als Raute zuschneiden",
+    "Ritaglia a rombo",
+    "Recortar em losango"
+  ],
+  "opacity": [
+    "Opacidad",
+    "Opacity",
+    "Opacité",
+    "Deckkraft",
+    "Opacità",
+    "Opacidade"
+  ],
+  "load_image": [
+    "Importar imagen",
+    "Import image",
+    "Importer une image",
+    "Bild importieren",
+    "Importa immagine",
+    "Importar imagem"
+  ],
+  "clear_image": [
+    "Quitar imagen",
+    "Remove image",
+    "Retirer l’image",
+    "Bild entfernen",
+    "Rimuovi immagine",
+    "Remover imagem"
+  ],
+  "conversion_help": [
+    "Conversión automática: 24 × 24, transparencia y colores reducidos. PNG, JPG, BMP o GIF.",
+    "Automatic conversion: 24 × 24, transparency and reduced colours. PNG, JPG, BMP or GIF.",
+    "Conversion automatique : 24 × 24, transparence et couleurs réduites. PNG, JPG, BMP ou GIF.",
+    "Automatisch: 24 × 24, Transparenz und reduzierte Farben. PNG, JPG, BMP oder GIF.",
+    "Conversione automatica: 24 × 24, trasparenza e colori ridotti. PNG, JPG, BMP o GIF.",
+    "Conversão automática: 24 × 24, transparência e cores reduzidas. PNG, JPG, BMP ou GIF."
+  ],
+  "apply_icon": [
+    "Guardar icono en el proyecto",
+    "Save icon to project",
+    "Enregistrer l’icône dans le projet",
+    "Symbol im Projekt speichern",
+    "Salva icona nel progetto",
+    "Guardar ícone no projeto"
+  ],
+  "system": [
+    "Sistema",
+    "System",
+    "Système",
+    "System",
+    "Sistema",
+    "Sistema"
+  ],
+  "galaxy": [
+    "Galaxia",
+    "Galaxy",
+    "Galaxie",
+    "Galaxie",
+    "Galassia",
+    "Galáxia"
+  ],
+  "portal": [
+    "Dirección del portal",
+    "Portal address",
+    "Adresse du portail",
+    "Portaladresse",
+    "Indirizzo portale",
+    "Endereço do portal"
+  ],
+  "station": [
+    "Estación (referencia)",
+    "Station (reference)",
+    "Station (référence)",
+    "Station (Referenz)",
+    "Stazione (riferimento)",
+    "Estação (referência)"
+  ],
+  "evidence": [
+    "Evidencia",
+    "Evidence",
+    "Preuve",
+    "Nachweis",
+    "Prova",
+    "Evidência"
+  ],
+  "ready": [
+    "Carga una partida o abre la carpeta del mod.",
+    "Load a save or open the mod folder.",
+    "Chargez une sauvegarde ou ouvrez le dossier du mod.",
+    "Spielstand oder Mod-Ordner öffnen.",
+    "Carica un salvataggio o apri la cartella del mod.",
+    "Carregue uma partida ou abra a pasta do mod."
+  ],
+  "unconfirmed": [
+    "Estaciones sin alianza confirmada",
+    "Stations without confirmed alliance",
+    "Stations sans alliance confirmée",
+    "Stationen ohne bestätigte Allianz",
+    "Stazioni senza alleanza confermata",
+    "Estações sem aliança confirmada"
+  ],
+  "name_pending": [
+    "Nombre del sistema pendiente",
+    "System name pending",
+    "Nom du système en attente",
+    "Systemname ausstehend",
+    "Nome sistema in attesa",
+    "Nome do sistema pendente"
+  ],
+  "owned": [
+    "Estación propia",
+    "Owned station",
+    "Station possédée",
+    "Eigene Station",
+    "Stazione posseduta",
+    "Estação própria"
+  ],
+  "cached": [
+    "Alianza en caché",
+    "Cached alliance",
+    "Alliance en cache",
+    "Allianz im Cache",
+    "Alleanza in cache",
+    "Aliança em cache"
+  ],
+  "cached_help": [
+    "Las asociaciones del save son históricas. Sin alianza confirmada no se exporta un marcador de alianza.",
+    "Save associations are historical. No alliance marker is exported without a confirmed alliance.",
+    "Les associations sont historiques. Aucun marqueur sans alliance confirmée.",
+    "Historische Zuordnungen. Ohne bestätigte Allianz kein Allianzmarker.",
+    "Associazioni storiche. Nessun indicatore senza alleanza confermata.",
+    "Associações históricas. Sem aliança confirmada não se exporta marcador de aliança."
+  ],
+  "system_portal": [
+    "Glifos de acceso al sistema: planeta 1. La galaxia se conserva por separado.",
+    "System access glyphs: planet 1. Galaxy is stored separately.",
+    "Glyphes du système : planète 1. Galaxie conservée séparément.",
+    "Systemglyphen: Planet 1. Galaxie separat gespeichert.",
+    "Glifi del sistema: pianeta 1. Galassia salvata separatamente.",
+    "Glifos do sistema: planeta 1. Galáxia guardada separadamente."
+  ],
+  "imported": [
+    "Importados",
+    "Imported",
+    "Importés",
+    "Importiert",
+    "Importati",
+    "Importados"
+  ],
+  "alliances_count": [
+    "alianzas",
+    "alliances",
+    "alliances",
+    "Allianzen",
+    "alleanze",
+    "alianças"
+  ],
+  "folder_help": [
+    "Selecciona IGM_v031_datos o su carpeta Binaries.",
+    "Select IGM_v031_datos or its Binaries folder.",
+    "Sélectionnez IGM_v031_datos ou son dossier Binaries.",
+    "IGM_v031_datos oder dessen Binaries-Ordner wählen.",
+    "Seleziona IGM_v031_datos o la sua cartella Binaries.",
+    "Selecione IGM_v031_datos ou a sua pasta Binaries."
+  ],
+  "saved": [
+    "Proyecto guardado",
+    "Project saved",
+    "Projet enregistré",
+    "Projekt gespeichert",
+    "Progetto salvato",
+    "Projeto guardado"
+  ],
+  "loaded": [
+    "Proyecto cargado",
+    "Project loaded",
+    "Projet chargé",
+    "Projekt geladen",
+    "Progetto caricato",
+    "Projeto carregado"
+  ],
+  "export_confirm": [
+    "Se fusionarán los sistemas seleccionados y los iconos. Conserva exclusiones y favoritos. Cierra NMS antes de continuar.",
+    "Selected systems and icons will be merged. Exclusions and favourites are preserved. Close NMS before continuing.",
+    "Fusion des systèmes sélectionnés et des icônes. Favoris et exclusions conservés. Fermez NMS.",
+    "Ausgewählte Systeme und Symbole zusammenführen. Favoriten und Ausschlüsse bleiben erhalten. NMS schließen.",
+    "Unisce sistemi selezionati e icone. Conserva preferiti ed esclusioni. Chiudi NMS.",
+    "Une sistemas selecionados e ícones. Preserva favoritos e exclusões. Feche o NMS."
+  ],
+  "exported": [
+    "Exportación terminada",
+    "Export complete",
+    "Export terminé",
+    "Export abgeschlossen",
+    "Esportazione completata",
+    "Exportação concluída"
+  ],
+  "restart": [
+    "Carga la partida para leer los cambios.",
+    "Load your save to read changes.",
+    "Chargez votre partie pour lire les changements.",
+    "Spielstand laden, um Änderungen einzulesen.",
+    "Carica la partita per leggere le modifiche.",
+    "Carregue a partida para ler as alterações."
+  ],
+  "choose_alliance": [
+    "Selecciona primero una alianza en el catálogo.",
+    "Select an alliance in the catalogue first.",
+    "Sélectionnez d’abord une alliance dans le catalogue.",
+    "Zuerst eine Allianz im Katalog auswählen.",
+    "Seleziona prima un’alleanza nel catalogo.",
+    "Selecione primeiro uma aliança no catálogo."
+  ],
+  "icon_saved": [
+    "Icono guardado. Pulsa Exportar al mod para aplicarlo.",
+    "Icon saved. Click Export to mod to apply.",
+    "Icône enregistrée. Exportez vers le mod pour l’appliquer.",
+    "Symbol gespeichert. Zum Anwenden in den Mod exportieren.",
+    "Icona salvata. Esporta nel mod per applicarla.",
+    "Ícone guardado. Exporte para o mod para aplicar."
+  ],
+  "error": [
+    "No se pudo completar la operación.",
+    "The operation could not be completed.",
+    "Impossible de terminer l’opération.",
+    "Vorgang konnte nicht abgeschlossen werden.",
+    "Impossibile completare l’operazione.",
+    "Não foi possível concluir a operação."
+  ],
+  "select_all": [
+    "Seleccionar todos",
+    "Select all",
+    "Tout sélectionner",
+    "Alle auswählen",
+    "Seleziona tutti",
+    "Selecionar todos"
+  ],
+  "select_none": [
+    "Desmarcar todos",
+    "Deselect all",
+    "Tout désélectionner",
+    "Alle abwählen",
+    "Deseleziona tutti",
+    "Desmarcar todos"
+  ],
+  "theme": [
+    "Tema",
+    "Theme",
+    "Thème",
+    "Thema",
+    "Tema",
+    "Tema"
+  ],
+  "symbol0": [
+    "Sin símbolo",
+    "No symbol",
+    "Sans symbole",
+    "Kein Symbol",
+    "Nessun simbolo",
+    "Sem símbolo"
+  ],
+  "symbol1": [
+    "Cruz ramificada",
+    "Branched cross",
+    "Croix ramifiée",
+    "Verzweigtes Kreuz",
+    "Croce ramificata",
+    "Cruz ramificada"
+  ],
+  "symbol2": [
+    "Estrella",
+    "Star",
+    "Étoile",
+    "Stern",
+    "Stella",
+    "Estrela"
+  ],
+  "symbol3": [
+    "Órbita",
+    "Orbit",
+    "Orbite",
+    "Umlaufbahn",
+    "Orbita",
+    "Órbita"
+  ],
+  "symbol4": [
+    "Triángulo",
+    "Triangle",
+    "Triangle",
+    "Dreieck",
+    "Triangolo",
+    "Triângulo"
+  ],
+  "symbol5": [
+    "Calavera",
+    "Skull",
+    "Crâne",
+    "Totenkopf",
+    "Teschio",
+    "Caveira"
+  ],
+  "symbol6": [
+    "Escudo",
+    "Shield",
+    "Bouclier",
+    "Schild",
+    "Scudo",
+    "Escudo"
+  ],
+  "theme0": [
+    "Personalizado",
+    "Custom",
+    "Personnalisé",
+    "Benutzerdefiniert",
+    "Personalizzato",
+    "Personalizado"
+  ],
+  "theme1": [
+    "Imperial",
+    "Imperial",
+    "Impérial",
+    "Imperial",
+    "Imperiale",
+    "Imperial"
+  ],
+  "theme2": [
+    "Pirata",
+    "Pirate",
+    "Pirate",
+    "Pirat",
+    "Pirata",
+    "Pirata"
+  ],
+  "theme3": [
+    "Espacial",
+    "Space",
+    "Spatial",
+    "Weltraum",
+    "Spaziale",
+    "Espacial"
+  ],
+  "alliance_pending": [
+    "Alianza con nombre pendiente",
+    "Alliance name pending",
+    "Nom d’alliance en attente",
+    "Allianzname ausstehend",
+    "Nome alleanza in attesa",
+    "Nome da aliança pendente"
+  ],
+  "ui15:576 × 576 · Editing original": [
+    "576 × 576 · Original de edición",
+    "576 × 576 · Editing original",
+    "576 × 576 · Original de travail",
+    "576 × 576 · Bearbeitungsoriginal",
+    "576 × 576 · Originale di modifica",
+    "576 × 576 · Original de edição"
+  ],
+  "ui15:A local catalogue. Your own insignias.": [
+    "Un catálogo local. Tus propias insignias.",
+    "A local catalogue. Your own insignias.",
+    "Un catalogue local. Vos propres insignes.",
+    "Ein lokaler Katalog. Deine eigenen Abzeichen.",
+    "Un catalogo locale. Le tue insegne.",
+    "Um catálogo local. As suas insígnias."
+  ],
+  "ui15:ALLIANCE COLOUR": [
+    "COLOR DE ALIANZA",
+    "ALLIANCE COLOUR",
+    "COULEUR DE L’ALLIANCE",
+    "ALLIANZFARBE",
+    "COLORE ALLEANZA",
+    "COR DA ALIANÇA"
+  ],
+  "ui15:ALLIANCES": [
+    "ALIANZAS",
+    "ALLIANCES",
+    "ALLIANCES",
+    "ALLIANZEN",
+    "ALLEANZE",
+    "ALIANÇAS"
+  ],
+  "ui15:Alliance catalogue": [
+    "Catálogo de alianzas",
+    "Alliance catalogue",
+    "Catalogue des alliances",
+    "Allianzkatalog",
+    "Catalogo alleanze",
+    "Catálogo de alianças"
+  ],
+  "ui15:Changes are retained locally.": [
+    "Los cambios se conservan localmente.",
+    "Changes are retained locally.",
+    "Modifications conservées localement.",
+    "Änderungen werden lokal gespeichert.",
+    "Modifiche salvate localmente.",
+    "Alterações guardadas localmente."
+  ],
+  "ui15:Could not save local customisation.": [
+    "No se pudo guardar la personalización local.",
+    "Could not save local customisation.",
+    "Impossible d’enregistrer la personnalisation.",
+    "Anpassung konnte nicht gespeichert werden.",
+    "Impossibile salvare la personalizzazione.",
+    "Não foi possível guardar a personalização."
+  ],
+  "ui15:Design in high resolution. The game format is created on export.": [
+    "Diseña en alta resolución. El formato del juego se crea al exportar.",
+    "Design in high resolution. The game format is created on export.",
+    "Créez en haute résolution. Le format du jeu est produit à l’export.",
+    "In hoher Auflösung gestalten. Spielformat beim Export erzeugt.",
+    "Disegna ad alta risoluzione. Il formato del gioco viene creato all’esportazione.",
+    "Crie em alta resolução. O formato do jogo é criado na exportação."
+  ],
+  "ui15:Diamond: ": [
+    "Rombo: ",
+    "Diamond: ",
+    "Losange : ",
+    "Raute: ",
+    "Rombo: ",
+    "Losango: "
+  ],
+  "ui15:Edit emblem": [
+    "Editar emblema",
+    "Edit emblem",
+    "Modifier l’emblème",
+    "Emblem bearbeiten",
+    "Modifica emblema",
+    "Editar emblema"
+  ],
+  "ui15:Emblem studio": [
+    "Estudio de emblemas",
+    "Emblem studio",
+    "Atelier d’emblèmes",
+    "Emblemstudio",
+    "Studio emblemi",
+    "Estúdio de emblemas"
+  ],
+  "ui15:Export: 24 × 24": [
+    "Exportación: 24 × 24",
+    "Export: 24 × 24",
+    "Export : 24 × 24",
+    "Export: 24 × 24",
+    "Esportazione: 24 × 24",
+    "Exportação: 24 × 24"
+  ],
+  "ui15:KNOWN SYSTEMS": [
+    "SISTEMAS CONOCIDOS",
+    "KNOWN SYSTEMS",
+    "SYSTÈMES CONNUS",
+    "BEKANNTE SYSTEME",
+    "SISTEMI CONOSCIUTI",
+    "SISTEMAS CONHECIDOS"
+  ],
+  "ui15:LIVE PREVIEW": [
+    "VISTA PREVIA",
+    "LIVE PREVIEW",
+    "APERÇU EN DIRECT",
+    "LIVE-VORSCHAU",
+    "ANTEPRIMA",
+    "PRÉ-VISUALIZAÇÃO"
+  ],
+  "ui15:Load your save to explore alliances and design their emblems.": [
+    "Carga tu partida para explorar alianzas y diseñar sus emblemas.",
+    "Load your save to explore alliances and design their emblems.",
+    "Chargez votre sauvegarde pour explorer les alliances et créer leurs emblèmes.",
+    "Spielstand laden, Allianzen erkunden und Embleme gestalten.",
+    "Carica la partita per esplorare alleanze e creare emblemi.",
+    "Carregue a partida para explorar alianças e criar emblemas."
+  ],
+  "ui15:More": [
+    "Otro",
+    "More",
+    "Autre",
+    "Weitere",
+    "Altro",
+    "Outro"
+  ],
+  "ui15:Next": [
+    "Siguiente",
+    "Next",
+    "Suivant",
+    "Weiter",
+    "Avanti",
+    "Seguinte"
+  ],
+  "ui15:OBSERVED ALLIANCES": [
+    "ALIANZAS DETECTADAS",
+    "OBSERVED ALLIANCES",
+    "ALLIANCES OBSERVÉES",
+    "BEOBACHTETE ALLIANZEN",
+    "ALLEANZE OSSERVATE",
+    "ALIANÇAS OBSERVADAS"
+  ],
+  "ui15:OWNED STATIONS": [
+    "ESTACIONES PROPIAS",
+    "OWNED STATIONS",
+    "STATIONS POSSÉDÉES",
+    "EIGENE STATIONEN",
+    "STAZIONI POSSEDUTE",
+    "ESTAÇÕES PRÓPRIAS"
+  ],
+  "ui15:Opacity": [
+    "Opacidad",
+    "Opacity",
+    "Opacité",
+    "Deckkraft",
+    "Opacità",
+    "Opacidade"
+  ],
+  "ui15:Previous": [
+    "Anterior",
+    "Previous",
+    "Précédent",
+    "Zurück",
+    "Indietro",
+    "Anterior"
+  ],
+  "ui15:Read-only save import · Merge export · Original files untouched": [
+    "Solo lectura del save · Exportación por fusión · Archivos originales intactos",
+    "Read-only save import · Merge export · Original files untouched",
+    "Lecture seule · Export fusionné · Originaux intacts",
+    "Nur lesender Import · Zusammenführender Export · Originale unverändert",
+    "Importazione in sola lettura · Esportazione unita · Originali intatti",
+    "Importação só de leitura · Exportação por fusão · Originais intactos"
+  ],
+  "ui15:SYMBOL LIBRARY": [
+    "BIBLIOTECA DE SÍMBOLOS",
+    "SYMBOL LIBRARY",
+    "BIBLIOTHÈQUE DE SYMBOLES",
+    "SYMBOLBIBLIOTHEK",
+    "LIBRERIA SIMBOLI",
+    "BIBLIOTECA DE SÍMBOLOS"
+  ],
+  "ui15:Selectable symbols · Alliance colours · Portal glyphs": [
+    "Símbolos seleccionables · Colores por alianza · Glifos de acceso",
+    "Selectable symbols · Alliance colours · Portal glyphs",
+    "Symboles au choix · Couleurs d’alliance · Glyphes de portail",
+    "Wählbare Symbole · Allianzfarben · Portalglyphen",
+    "Simboli selezionabili · Colori alleanze · Glifi portale",
+    "Símbolos selecionáveis · Cores das alianças · Glifos de portal"
+  ],
+  "ui15:Symbol colour": [
+    "Color del símbolo",
+    "Symbol colour",
+    "Couleur du symbole",
+    "Symbolfarbe",
+    "Colore simbolo",
+    "Cor do símbolo"
+  ],
+  "ui15:WORKSPACE": [
+    "ESPACIO DE TRABAJO",
+    "WORKSPACE",
+    "ESPACE DE TRAVAIL",
+    "ARBEITSBEREICH",
+    "AREA DI LAVORO",
+    "ESPAÇO DE TRABALHO"
+  ],
+  "ui15:Your galaxy, organised.": [
+    "Tu galaxia, organizada.",
+    "Your galaxy, organised.",
+    "Votre galaxie, organisée.",
+    "Deine Galaxie, geordnet.",
+    "La tua galassia, organizzata.",
+    "A sua galáxia, organizada."
+  ],
+  "ui15:symbols": [
+    "símbolos",
+    "symbols",
+    "symboles",
+    "Symbole",
+    "simboli",
+    "símbolos"
+  ],
+  "ui15:systems": [
+    "sistemas",
+    "systems",
+    "systèmes",
+    "Systeme",
+    "sistemi",
+    "sistemas"
+  ],
+  "ui15:Export: 96 × 96": [
+    "Exportación: 96 × 96",
+    "Export: 96 × 96",
+    "Exportation : 96 × 96",
+    "Export: 96 × 96",
+    "Esportazione: 96 × 96",
+    "Exportação: 96 × 96"
+  ],
+  "ui15:Automatic contrast": [
+    "Contraste automático",
+    "Automatic contrast",
+    "Contraste automatique",
+    "Automatischer Kontrast",
+    "Contrasto automatico",
+    "Contraste automático"
+  ]
+}

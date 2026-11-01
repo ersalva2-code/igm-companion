@@ -1,0 +1,14 @@
+{
+  "component": "IGM Companion0.26 source review snapshot",
+  "provided_binary_sha256": "7324b2a49547bb54db46a84d8f36ba0630f480379f083783b134dcd24805b933",
+  "source_archive_sha256": "7ef768472820df52ac3ca41b402f47aa6419dc60c8b0776766ba21d0f0f4d94e",
+  "runtime_archive_sha256": "b88ded5d4c1011a2c79140dcd5ff15ac479096b4feaf6de05609a73f05d9708b",
+  "source_files": {
+    "Core.cs": "9af04f2e807bcaf4fc82b5cbf4bcb0f9bf7fffda67c30e320e26b33859040454",
+    "ImperialCore.cs": "37a556f258d1f63ae15c094feb6b8564672e8c909aa9c72afb5cf5f1abe3f532",
+    "Interface.cs": "a7c40cedf0c13502994c1a47b71a4f6a5c30e4d31987f70f134f92e613ebe37b",
+    "glyphs.png": "ff466486c6eee881dd6dc5ce2f0b4ca477a38a0339b7b0476b95f28bbe906c9d"
+  },
+  "windows_build_tested": false,
+  "binary_identical_build_established": false
+}
